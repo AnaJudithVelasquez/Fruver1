@@ -10,7 +10,7 @@
             <!-- Header Section -->
             <div class="bg-gradient-to-r from-green-600 to-blue-600 text-white rounded-lg shadow-lg mb-8">
                 <div class="p-8">
-                    <h1 class="text-3xl font-bold mb-2">🏪 Dashboard del Fruver</h1>
+                    <h1 class="text-3xl font-bold mb-2">🏪 Fruver Aguacates JJ</h1>
                     <p class="text-green-100">Bienvenido, {{ auth()->user()->name }} - {{ auth()->user()->role->name }}</p>
                 </div>
             </div>
